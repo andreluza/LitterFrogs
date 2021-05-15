@@ -1,2 +1,2 @@
 # LitterFrogs
-R scripts and data used in an accepted paper in Austral Ecology.
+R scripts and data used in a paper accepted in Austral Ecology.
